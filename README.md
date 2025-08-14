@@ -228,3 +228,32 @@ If you encounter abusive behavior, please refer to the [policy violations](https
 GNU General Public License v3.0 or later
 
 See LICENCE to see the full text.
+
+<METADATA TAGS>
+openshift_business_metadata_tags:
+  - ContainerOrchestration
+  - KubernetesPlatform
+  - HybridCloud
+  - DevOpsAutomation
+  - CloudNative
+  - PlatformAsAService
+  - DigitalTransformation
+  - AcceleratedAppDevelopment
+  - CostOptimization
+  - VendorLockInMitigation
+  - LegacyModernization
+  - FinTechCompliance
+  - HealthcareInteroperability
+  - ManufacturingIoT
+  - RetailScalability
+  - RedHatEcosystem
+  - OpenSourceEnterpriseGrade
+  - MultiClusterManagement
+  - DeveloperProductivity
+  - AIMLWorkloads
+  - EdgeComputing
+  - GitOpsAdoption
+  - SustainableIT
+  - FIPSCompliance
+  - FedRAMPReady
+  - DisasterRecovery
