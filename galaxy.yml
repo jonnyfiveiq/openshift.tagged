@@ -9,6 +9,33 @@ dependencies:
 description: OKD Collection for Ansible.
 documentation: ''
 homepage: ''
+AI_Business_Context_tags:
+  - ContainerOrchestration
+  - KubernetesPlatform
+  - HybridCloud
+  - DevOpsAutomation
+  - CloudNative
+  - PlatformAsAService
+  - DigitalTransformation
+  - AcceleratedAppDevelopment
+  - CostOptimization
+  - VendorLockInMitigation
+  - LegacyModernization
+  - FinTechCompliance
+  - HealthcareInteroperability
+  - ManufacturingIoT
+  - RetailScalability
+  - RedHatEcosystem
+  - OpenSourceEnterpriseGrade
+  - MultiClusterManagement
+  - DeveloperProductivity
+  - AIMLWorkloads
+  - EdgeComputing
+  - GitOpsAdoption
+  - SustainableIT
+  - FIPSCompliance
+  - FedRAMPReady
+  - DisasterRecovery
 issues: https://github.com/openshift/community.okd/issues
 license_file: LICENSE
 name: okd
