@@ -1,0 +1,27 @@
+---
+authors:
+  - geerlingguy (https://www.jeffgeerling.com/)
+  - fabianvf (https://github.com/fabianvf)
+  - willthames (https://github.com/willthames)
+  - Akasurde (https://github.com/akasurde)
+dependencies:
+  kubernetes.core: '>=6.0.0'
+description: OKD Collection for Ansible.
+documentation: ''
+homepage: ''
+issues: https://github.com/openshift/community.okd/issues
+license_file: LICENSE
+name: okd
+namespace: community
+readme: README.md
+repository: https://github.com/openshift/community.okd
+tags:
+  - kubernetes
+  - k8s
+  - cloud
+  - infrastructure
+  - openshift
+  - okd
+  - cluster
+# Also needs to be updated in the Makefile
+version: 6.0.0-dev0
